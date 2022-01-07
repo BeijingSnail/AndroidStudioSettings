@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="androidx.viewpager2.adapter.FragmentStateAdapter.FragmentStateAdapter(fragmentActivity)" />
+        <added pattern="com.chad.library.adapter.base.BaseQuickAdapter.BaseQuickAdapter(layoutResId)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_PROPERTY_HINT" value="true" />
+  </component>
+</application>
