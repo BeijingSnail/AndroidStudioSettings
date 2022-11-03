@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="172.16.5.72:8888" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-24T08:47:27.107781300Z" />
+        <name value="HUAWEI RVL-AL09" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
