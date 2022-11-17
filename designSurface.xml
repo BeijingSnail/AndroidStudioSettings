@@ -11,9 +11,15 @@
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/activity_web.xml" value="0.11413043478260869" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/dialog_preview.xml" value="0.1" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/recyclerview_playlists.xml" value="0.1234375" />
+        <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/drawable/login_screen.xml" value="0.14114583333333333" />
         <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/drawable/shape_blue_btn_bg.xml" value="0.18958333333333333" />
+        <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/layout/activity_confirmation.xml" value="0.12604166666666666" />
+        <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/layout/activity_create_account.xml" value="0.12604166666666666" />
         <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/layout/activity_web.xml" value="0.16458333333333333" />
+        <entry key="..\:/kuke/naxos/naxos-nmlj-android/app/src/main/res/layout/activity_confirmation.xml" value="0.1" />
+        <entry key="..\:/kuke/naxos/naxos-nmlj-android/app/src/main/res/layout/activity_create_account.xml" value="0.1" />
+        <entry key="..\:/kuke/naxos/naxos-nmlj-android/app/src/main/res/layout/activity_login.xml" value="0.11510416666666666" />
         <entry key="..\:/kuke/naxos/naxos-nmlj-android/app/src/main/res/layout/fragment_advanced_search.xml" value="0.25" />
       </map>
     </option>
