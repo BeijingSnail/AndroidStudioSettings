@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/MyTT/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/kuke/KukeMusicApp/KKMusic/app/src/main/res/layout/storage_dialog.xml" value="0.1" />
         <entry key="..\:/kuke/bmf/bmf-android/app/src/main/res/layout/activityView/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/kuke/bmf/bmf-android/app/src/main/res/layout/activityView/layout/activity_naxos_album_list.xml" value="0.1" />
         <entry key="..\:/kuke/bmf/bmf-android/app/src/main/res/layout/fragmentView/layout/fragment_naxos_album_category.xml" value="0.17447916666666666" />
@@ -43,6 +44,7 @@
         <entry key="..\:/kuke/naxos/naxos-android-nswl/app/src/main/res/layout/discover_home.xml" value="0.1" />
         <entry key="..\:/kuke/naxos/naxos-android-nswl/app/src/main/res/layout/fragment_album_details.xml" value="0.134375" />
         <entry key="..\:/kuke/naxos/naxos-android-nswl/app/src/main/res/layout/fragment_others.xml" value="0.1" />
+        <entry key="..\:/kuke/naxos/naxos-android-nswl/app/src/main/res/layout/fragment_search.xml" value="0.22" />
         <entry key="..\:/kuke/naxos/naxos-android-nswl/app/src/main/res/layout/item_discover_banner.xml" value="0.16032608695652173" />
         <entry key="..\:/kuke/naxos/naxos-android-nswl/app/src/main/res/layout/layout_bottom_play_controller.xml" value="0.14322916666666666" />
         <entry key="..\:/kuke/naxos/naxos-android-nswl/app/src/main/res/layout/layout_empty_state.xml" value="0.1598731884057971" />
