@@ -122,6 +122,7 @@
         <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/layout/fragment_advanced_search.xml" value="0.17708333333333334" />
         <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/layout/fragment_album_details.xml" value="0.16576086956521738" />
         <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/layout/fragment_audio_setting.xml" value="0.1" />
+        <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/layout/fragment_clear_cache.xml" value="0.1" />
         <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/layout/fragment_favor.xml" value="0.15677083333333333" />
         <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/layout/fragment_others.xml" value="0.1068840579710145" />
         <entry key="..\:/kuke/naxos/naxos-android-world/app/src/main/res/layout/fragment_recently_played.xml" value="0.17708333333333334" />
@@ -148,6 +149,7 @@
         <entry key="..\:/kuke/naxos/naxos-nmlj-android/app/src/main/res/layout/dialog_preview.xml" value="0.1" />
         <entry key="..\:/kuke/naxos/naxos-nmlj-android/app/src/main/res/layout/fragment_advanced_search.xml" value="0.25" />
         <entry key="..\:/kuke/naxos/naxos-nmlj-android/app/src/main/res/layout/fragment_album_details.xml" value="0.1671875" />
+        <entry key="..\:/kuke/naxos/naxos-nmlj-android/app/src/main/res/layout/fragment_clear_cache.xml" value="0.1" />
         <entry key="..\:/kuke/naxos/naxos-nmlj-android/app/src/main/res/layout/fragment_favor.xml" value="0.1453804347826087" />
         <entry key="..\:/kuke/naxos/naxos-nmlj-android/app/src/main/res/layout/fragment_home.xml" value="0.1234375" />
         <entry key="..\:/kuke/naxos/naxos-nmlj-android/app/src/main/res/layout/fragment_others.xml" value="0.25" />
