@@ -5,7 +5,6 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".md" type="Native" />
       <mapping ext="pepk" type="PLAIN_TEXT" />
-      <mapping ext="db" type="SQL" />
       <mapping pattern="a" type="Markdown" />
     </extensionMap>
   </component>
