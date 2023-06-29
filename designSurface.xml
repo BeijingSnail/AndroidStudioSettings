@@ -10,6 +10,7 @@
         <entry key="..\:/kuke/KKAudition/KKAudition/app/src/main/res/layout/play_fragment.xml" value="0.10703125" />
         <entry key="..\:/kuke/KKAudition/KKAudition/app/src/main/res/layout/welcome.xml" value="0.11666666666666667" />
         <entry key="..\:/kuke/KKCloudCD/kkcloudcd/KKOrgMedia3rd/app/src/main/res/layout/activity_album_detail.xml" value="0.1" />
+        <entry key="..\:/kuke/KukeMusicApp/KKMusic/app/src/main/res/drawable/gray_border_20.xml" value="0.1675925925925926" />
         <entry key="..\:/kuke/KukeMusicApp/KKMusic/app/src/main/res/layout/activity_classify_home.xml" value="0.17447916666666666" />
         <entry key="..\:/kuke/KukeMusicApp/KKMusic/app/src/main/res/layout/activity_setting.xml" value="0.25" />
         <entry key="..\:/kuke/KukeMusicApp/KKMusic/app/src/main/res/layout/fragment_letter.xml" value="0.1" />
@@ -30,6 +31,7 @@
         <entry key="..\:/kuke/bmf/bmf-android/app/src/main/res/menu/welfare_list_menu.xml" value="0.1390625" />
         <entry key="..\:/kuke/bmf/bmf-android/app/src/main/res/menu/wx_share_menu.xml" value="0.1390625" />
         <entry key="..\:/kuke/kukeAndroid5.0/kukeMusic/kkplayer/src/main/res/layout/music_notify_big_controller.xml" value="0.16032608695652173" />
+        <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/gray_border_20.xml" value="0.13697916666666668" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/selector_indicator.xml" value="0.16875" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/shape_edit_search.xml" value="0.16770833333333332" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/shape_grey_btn_bg.xml" value="0.18958333333333333" />
@@ -63,7 +65,7 @@
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/fragment_search_result.xml" value="0.1503623188405797" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/item_biography.xml" value="0.1484375" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/item_favor.xml" value="0.15625" />
-        <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/label_item.xml" value="0.17447916666666666" />
+        <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/label_item.xml" value="0.25" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/latter_item.xml" value="0.16041666666666668" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/layout_bottom_play_controller.xml" value="0.13125" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/layout_dialog_tip.xml" value="0.15260416666666668" />
