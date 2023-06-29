@@ -51,6 +51,7 @@
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/fragment_search_result.xml" value="0.1503623188405797" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/item_biography.xml" value="0.1484375" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/item_favor.xml" value="0.15625" />
+        <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/latter_item.xml" value="0.16041666666666668" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/layout_bottom_play_controller.xml" value="0.13125" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/layout_dialog_tip.xml" value="0.15260416666666668" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/layout_empty_state.xml" value="0.16354166666666667" />
@@ -65,6 +66,7 @@
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/recyclerview_details_album_head.xml" value="0.10778985507246377" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/recyclerview_folder_list.xml" value="0.11548913043478261" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/recyclerview_folder_tracklist.xml" value="0.18" />
+        <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/recyclerview_home_featured.xml" value="0.16041666666666668" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/recyclerview_others_item.xml" value="0.1" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/recyclerview_playlist_details.xml" value="0.17395833333333333" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/recyclerview_playlists.xml" value="0.1234375" />
