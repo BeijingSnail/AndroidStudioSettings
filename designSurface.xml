@@ -34,7 +34,9 @@
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/gray_border_20.xml" value="0.17685185185185184" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/selector_bottom_navigation_browse.xml" value="0.17407407407407408" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/selector_bottom_navigation_search.xml" value="0.17407407407407408" />
+        <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/selector_date_sort.xml" value="0.159375" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/selector_indicator.xml" value="0.16875" />
+        <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/selector_letter_sort.xml" value="0.159375" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/shape_edit_search.xml" value="0.16770833333333332" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/shape_edit_search_prime.xml" value="0.17037037037037037" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/drawable/shape_grey_btn_bg.xml" value="0.18958333333333333" />
@@ -75,6 +77,7 @@
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/label_item_group.xml" value="0.1703125" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/language_login_setting_item.xml" value="0.17447916666666666" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/latter_item.xml" value="0.16041666666666668" />
+        <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/layout_addition_sort.xml" value="0.5" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/layout_bottom_navigation.xml" value="0.16893115942028986" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/layout_bottom_play_controller.xml" value="0.13125" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/layout_dialog_tip.xml" value="0.15260416666666668" />
