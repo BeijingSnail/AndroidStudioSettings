@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/.gradle/caches/transforms-2/files-2.1/ac9099b466107852abd5a04f81718a69/jetified-exoplayer-ui-2.11.7/res/layout/exo_track_selection_dialog.xml" value="0.12395833333333334" />
+        <entry key="..\:/.gradle/caches/transforms-2/files-2.1/ac9099b466107852abd5a04f81718a69/jetified-exoplayer-ui-2.11.7/res/layout/exo_track_selection_dialog.xml" value="0.16875" />
         <entry key="..\:/MyTT/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/googel/my_flac/ExoPlayer/demos/main/src/main/res/layout/player_activity.xml" value="0.18342391304347827" />
         <entry key="..\:/googel/my_flac/ExoPlayer/demos/main/src/main/res/layout/sample_chooser_activity.xml" value="0.1490036231884058" />
@@ -58,7 +58,7 @@
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/activity_register.xml" value="0.22" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/activity_splash.xml" value="0.14114583333333333" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/activity_splash_.xml" value="0.17447916666666666" />
-        <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/activity_video.xml" value="0.13541666666666666" />
+        <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/activity_video.xml" value="0.25" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/activity_web.xml" value="0.11413043478260869" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/dialog_black_menu.xml" value="0.14479166666666668" />
         <entry key="..\:/kuke/naxos/naxos-android-nml/app/src/main/res/layout/dialog_create_folder.xml" value="0.22" />
