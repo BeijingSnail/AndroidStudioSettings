@@ -1,0 +1,6 @@
+<application>
+  <component name="SmartInputGeneralSceneConfigState">
+    <option name="betweenCapitalScene" value="{&quot;capsLockState&quot;:true,&quot;code&quot;:&quot;betweenUpperLetter&quot;,&quot;enable&quot;:false,&quot;languageType&quot;:&quot;ENGLISH&quot;,&quot;name&quot;:&quot;大写字母之间&quot;,&quot;tip&quot;:&quot;光标处于大写字母之间切换为大写&quot;}" />
+    <option name="toolWindowChineseScene" value="{&quot;capsLockState&quot;:false,&quot;code&quot;:&quot;&quot;,&quot;enable&quot;:false,&quot;languageType&quot;:&quot;CHINESE&quot;,&quot;name&quot;:&quot;指定ToolWindow切换为中文&quot;,&quot;tip&quot;:&quot;指定ToolWindow获取到焦点时切换为中文&quot;}" />
+  </component>
+</application>

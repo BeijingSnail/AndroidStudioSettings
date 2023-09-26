@@ -1,0 +1,9 @@
+<application>
+  <component name="SmartInputBaseConfigState">
+    <option name="chineseInputSourceName" value="搜狗拼音" />
+    <option name="englishInputSourceName" value="微软拼音" />
+    <option name="showSwitchTipType" value="NON" />
+    <option name="englishCaretColor" value="白色" />
+    <option name="chineseCaretColor" value="金色" />
+  </component>
+</application>
