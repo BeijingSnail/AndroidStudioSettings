@@ -1,8 +1,7 @@
 <application>
   <component name="SmartInputUserInfoState">
     <option name="licenseInfo" value="{&quot;earlyToExpire&quot;:false,&quot;effective&quot;:false,&quot;expired&quot;:false}" />
-    <option name="languageChangeCumulativeTimes" value="18" />
-    <option name="todayLanguageChangeTimes" value="19" />
-    <option name="lastFrameStateActivateTimestamp" value="1696674766060" />
+    <option name="languageChangeCumulativeTimes" value="37" />
+    <option name="lastFrameStateActivateTimestamp" value="1696728159648" />
   </component>
 </application>
