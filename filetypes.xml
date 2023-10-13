@@ -1,11 +1,17 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
+      <removed_mapping ext="csv" type="CSV" />
+      <removed_mapping ext="psv" type="PSV" />
+      <removed_mapping ext="tab" type="TSV" />
+      <removed_mapping ext="tsv" type="TSV" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".md" type="Native" />
       <mapping ext="pepk" type="PLAIN_TEXT" />
+      <mapping ext="webp" type="Image" />
+      <mapping pattern=".md" type="Native" />
       <mapping pattern="a" type="Markdown" />
     </extensionMap>
   </component>
