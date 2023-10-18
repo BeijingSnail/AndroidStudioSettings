@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Widget which is used to inherit BetterPlayerController through widget tree." />
       <item value="cross Axis Alignment" />
       <item value="indefinitely" />
       <item value="* Defines the interface by which applications can receive notifications of routing * changes for the associated {@link AudioRouting}." />
@@ -50,7 +51,6 @@
       <item value="* Set whether home should be displayed as an &quot;up&quot; affordance. * Set this to true if selecting &quot;home&quot; returns up by a single level in your UI * rather than back to the top level or front page. * * &lt;p&gt;To set several display options at once, see the setDisplayOptions methods. * * @param showHomeAsUp true to show the user that selecting home will return one * level up rather than to the top level of the app. * * @see #setDisplayOptions(int) * @see #setDisplayOptions(int, int)" />
       <item value="Obtain the FirebaseAnalytics instance." />
       <item value="/** * Loads the native library specified by the &lt;code&gt;libname&lt;/code&gt; * argument. The &lt;code&gt;libname&lt;/code&gt; argument must not contain any platform * specific prefix, file extension or path. If a native library * called &lt;code&gt;libname&lt;/code&gt; is statically linked with the VM, then the * JNI_OnLoad_&lt;code&gt;libname&lt;/code&gt; function exported by the library is invoked. * See the JNI Specification for more details. * * Otherwise, the libname argument is loaded from a system library * location and mapped to a native library image in an implementation- * dependent manner. * &lt;p&gt; * The call &lt;code&gt;System.loadLibrary(name)&lt;/code&gt; is effectively * equivalent to the call * &lt;blockquote&gt;&lt;pre&gt; * Runtime.getRuntime().loadLibrary(name) * &lt;/pre&gt;&lt;/blockquote&gt; * * @param libname the name of the library. * @exception SecurityException if a security manager exists and its * &lt;code&gt;checkLink&lt;/code&gt; method doesn't allow * loading of the specified dynamic library * @exception UnsatisfiedLinkError if either the libname argument * contains a file path, the native library is not statically * linked with the VM, or the library cannot be mapped to a * native library image by the host system. * @exception NullPointerException if &lt;code&gt;libname&lt;/code&gt; is * &lt;code&gt;null&lt;/code&gt; * @see java.lang.Runtime#loadLibrary(java.lang.String) * @see java.lang.SecurityManager#checkLink(java.lang.String)" />
-      <item value="* Sets the source to get the number of spans occupied by each item in the adapter. * * @param spanSizeLookup {@link SpanSizeLookup} instance to be used to query number of spans * occupied by each item" />
     </histories>
     <option name="languageScores">
       <map>
