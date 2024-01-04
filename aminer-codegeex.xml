@@ -2,6 +2,11 @@
   <component name="aminer-codegeex">
     <option name="telemetryEnabled" value="true" />
     <option name="telemetryConfigured" value="true" />
+    <option name="sessionId" value="fb1ca9f1-422b-4e7a-8178-2251c79e8463" />
+    <option name="userId" value="60466a01b8094b398c6e31bd4855d037" />
+    <option name="userName" value="不是木头人" />
+    <option name="source" value="wechat_open" />
+    <option name="sourceId" value="oTz1V6M1u3HFDpjuIGlgYoNxhNmc" />
     <option name="configCacheSeconds" value="43200" />
     <option name="minCompletionDelay" value="500" />
     <option name="lastPluginVersion" value="2.2.0" />
