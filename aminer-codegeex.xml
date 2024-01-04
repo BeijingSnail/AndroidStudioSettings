@@ -1,5 +1,8 @@
 <application>
   <component name="aminer-codegeex">
+    <option name="askCodegeexLanguageSettingEnum" value="zh-CN" />
+    <option name="generateCommentLanguageSettingEnum" value="zh-CN" />
+    <option name="explainCodeLanguageSettingEnum" value="zh-CN" />
     <option name="telemetryEnabled" value="true" />
     <option name="telemetryConfigured" value="true" />
     <option name="sessionId" value="fb1ca9f1-422b-4e7a-8178-2251c79e8463" />
