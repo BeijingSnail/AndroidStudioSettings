@@ -8,10 +8,20 @@
             <value value="172.16.5.72:8888" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-24T08:47:27.107781300Z" />
         <name value="HUAWEI RVL-AL09" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="101004012101060856" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
