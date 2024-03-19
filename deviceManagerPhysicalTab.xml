@@ -19,9 +19,20 @@
             <value value="101004012101060856" />
           </Key>
         </key>
-        <name value="Device" />
+        <name value="sprd KY101P" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10200501210660441" />
+          </Key>
+        </key>
+        <name value="emdoor KY-102" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
